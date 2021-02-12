@@ -1,6 +1,6 @@
 # Neighbourhood Components Analysis (NCA) Method
 
-In this notebook, we present the Neighbourhood Components Analysis (NCA) method for learning a Mahalanobis distance measure to be used in the the K Nearest Neighbors (K-NN) classification. 
+In this notebook, we present the Neighbourhood Components Analysis (NCA) method for learning a Mahalanobis distance measure to be used in the K Nearest Neighbors (K-NN) classification. 
 https://cs.nyu.edu/~roweis/papers/ncanips.pdf
 
 The NCA addresses two key limitations of K-NN:
